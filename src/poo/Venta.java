@@ -4,7 +4,7 @@ public class Venta {
     public double valor;
     public Producto producto;
     public Persona persona;
-    
+   
     public double CalcularTotal() {
         
         switch (producto.tipo) {

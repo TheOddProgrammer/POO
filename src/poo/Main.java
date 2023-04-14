@@ -29,22 +29,21 @@ public class Main {
             //Persona personaUno = new Persona();
             //Producto productoUno = new Producto();
             //Venta ventaUno = new Venta();
-            //
             //personaUno.nombre = "Rodrigo";
             //personaUno.id = "1092730511";
-            //
             //productoUno.tipo = "Aseo";
             //productoUno.nombre = "Limpido";
             //productoUno.precio = 15000;
-            //
             //ventaUno.persona = personaUno;
             //ventaUno.producto = productoUno;
             //ventaUno.valor = productoUno.precio;
-            //
             //double Total = ventaUno.CalcularTotal();
             //System.out.println("El total de su Compra es de: "+Total);
             
         /* QUINTO EJERCICIO */
+        
+       
+        
         /* SEXTO EJERCICIO */
         /* SEPTIMO EJERCICIO CALIFICACION DE LA MATERIA */
         
